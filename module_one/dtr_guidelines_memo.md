@@ -30,7 +30,7 @@ Any additional questions that you would like to add:
 
 ### Template for DTR Memo
 
-Project: 
+Project: Linked List
 
 Group Member Names:
 
